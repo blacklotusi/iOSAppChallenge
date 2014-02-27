@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB1742FF18BEF5CD0035B4F3 /* InitialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB1742FE18BEF5CD0035B4F3 /* InitialViewController.m */; };
 		BBF02E1C18B1CB0F001155FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBF02E1B18B1CB0F001155FC /* Foundation.framework */; };
 		BBF02E1E18B1CB0F001155FC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBF02E1D18B1CB0F001155FC /* CoreGraphics.framework */; };
 		BBF02E2018B1CB0F001155FC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBF02E1F18B1CB0F001155FC /* UIKit.framework */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BB1742FD18BEF5CD0035B4F3 /* InitialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InitialViewController.h; sourceTree = "<group>"; };
+		BB1742FE18BEF5CD0035B4F3 /* InitialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InitialViewController.m; sourceTree = "<group>"; };
 		BBF02E1818B1CB0F001155FC /* iOSAppChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSAppChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBF02E1B18B1CB0F001155FC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BBF02E1D18B1CB0F001155FC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -122,6 +125,8 @@
 				BBF02E3418B1CB0F001155FC /* ViewController.m */,
 				BBF02E3618B1CB0F001155FC /* Images.xcassets */,
 				BBF02E2218B1CB0F001155FC /* Supporting Files */,
+				BB1742FD18BEF5CD0035B4F3 /* InitialViewController.h */,
+				BB1742FE18BEF5CD0035B4F3 /* InitialViewController.m */,
 			);
 			path = iOSAppChallenge;
 			sourceTree = "<group>";
@@ -256,6 +261,7 @@
 				BBF02E3518B1CB0F001155FC /* ViewController.m in Sources */,
 				BBF02E2C18B1CB0F001155FC /* AppDelegate.m in Sources */,
 				BBF02E2818B1CB0F001155FC /* main.m in Sources */,
+				BB1742FF18BEF5CD0035B4F3 /* InitialViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -474,6 +480,7 @@
 				BBF02E4F18B1CB10001155FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBF02E5018B1CB10001155FC /* Build configuration list for PBXNativeTarget "iOSAppChallengeTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +489,7 @@
 				BBF02E5218B1CB10001155FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
