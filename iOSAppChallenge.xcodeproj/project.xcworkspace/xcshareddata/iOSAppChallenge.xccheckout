@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6082FF4-1796-4A0F-A5A0-8AF76E3E0477</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSAppChallenge</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F6C6919-E44D-49F7-8AF5-2B6140141D05</key>
+		<string>https://github.com/blacklotusi/AppChallenge-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSAppChallenge.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F6C6919-E44D-49F7-8AF5-2B6140141D05</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/blacklotusi/AppChallenge-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F6C6919-E44D-49F7-8AF5-2B6140141D05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F6C6919-E44D-49F7-8AF5-2B6140141D05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSAppChallenge</string>
+		</dict>
+	</array>
+</dict>
+</plist>
