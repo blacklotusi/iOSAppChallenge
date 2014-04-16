@@ -1,10 +1,9 @@
-
 * Create Project
 
 CocoaPods Integration
 http://guides.cocoapods.org/using/getting-started.html
 
-* Navigate to project directory
+* Navigate to project directory (ex. myproject/)
 * To install cocoapods, run command:
     sudo gem install cocoapods
     * Enter User Password
@@ -18,6 +17,8 @@ http://guides.cocoapods.org/using/getting-started.html
         plaftform :ios, '7.0'
 * Edit podfile to include project dependencies
     http://guides.cocoapods.org/syntax/podfile.html
+* To install dependencies, run commond:
+    pod install
 * From now on use `YourProject.xcworkspace` instead of `YourProject`.xcodeproj`
 * Close `YourProject.xcodeproj` and open `YourProject.xcworkspace`
 
@@ -57,7 +58,7 @@ https://github.com/facebook/facebook-ios-sdk
             * Add your Display Name as the value from your FB App Dashboard
         * Add another key as an array and title it 'URL types'
             * Under sub-item called 'Item 0' add 'URL Schemes' as URL identifier
-                * Set 'Item 0' value as FB App ID with prefix "fb"
+                * Set 'Item 0' value as FB App ID with prefix "fb" (ex. "fb12334494390580")
 * Add FB login to app
 https://developers.facebook.com/docs/ios/login-tutorial/
     * Create Login View
